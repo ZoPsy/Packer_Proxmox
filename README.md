@@ -4,7 +4,7 @@ TP Packer - EPSI I2 EISI INFRA
 
 Ce projet contient la configuration Packer pour déployer automatiquement des machines virtuelles sur Proxmox, chacune dédiée à un rôle spécifique :
 
-- 🖼️ Frontend (NGINX + Node.js)
+- 🖼️ Frontend (NGINX + docker)
 - 🔧 Backend (Node.js)
 - 🛢️ Database (MongoDB)
 
