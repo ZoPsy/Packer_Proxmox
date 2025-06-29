@@ -13,7 +13,7 @@ Ce projet contient la configuration Packer pour déployer automatiquement des ma
 ## 🎥 Démo vidéo : VM unique avec tous les services
 
 > Pour des raisons de simplicité de démonstration, la vidéo montre un **déploiement unique** (1 VM avec NGINX + Node.js + MongoDB) via le dossier `MY_WORK`.
-
+https://youtu.be/9-wk6HrNyJM 
 ```bash
 cd /tp-packer
 
