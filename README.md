@@ -103,8 +103,8 @@ proxmox_node    = "nom_de_votre_node"
 ## Accès à la VM
 L'utilisateur packer est configuré automatiquement :
 
-Login : packer
+Login : `packer`
 
-Mot de passe : packer123!
+Mot de passe : `packer123!`
 
 Droits sudo sans mot de passe
