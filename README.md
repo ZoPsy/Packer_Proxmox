@@ -104,6 +104,7 @@ proxmox_node    = "nom_de_votre_node"
 L'utilisateur packer est configuré automatiquement :
 
 Login : packer
+
 Mot de passe : packer123!
 
 Droits sudo sans mot de passe
